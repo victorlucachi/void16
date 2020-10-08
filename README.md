@@ -11,6 +11,18 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as threads might get stripped.
 
+# Pin assignment
+
+    ROW0    ROW1    ROW2    ROW3
+    D3      D2      D1      D0
+    
+    
+    COL0    COL1    COL2    COL3
+    E6      D7      C6      D4
+
+
+    Encoder Pad A           Encoder Pad B
+    F5                      F4
 
 # Bill Of Materials
 
