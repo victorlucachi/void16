@@ -1,7 +1,7 @@
 # VOID16
 *A 4x4 handwired macropad*
 
-![VOID16](https://i.imgur.com/n8g2WHi.jpg)
+![VOID16](https://i.imgur.com/ExFBLPU.jpg)
 
 The VOID16 is a 3d printed, handwired, 4x4 macropad running QMK Firmware on a Pro Micro controller.
 
