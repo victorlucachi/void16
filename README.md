@@ -11,6 +11,16 @@ You might want/need to use small dabs of hot glue to secure the switches in the 
 
 Dont overtighten the screws as threads might get stripped.
 
+# Bill Of Materials
+
+* 16 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
+* 16 cherry mx style switches
+* 24 AWG (0.2 mm2) wire
+* Pro Micro
+* EC11 Rotary Encoder (optional / I used a 15mm EC11 clone, mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
+* 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
+* hot glue for securing the pro micro to the bottom case(optional, but recommended)
+
 # Pin assignment
 
     ROW0    ROW1    ROW2    ROW3
@@ -23,16 +33,6 @@ Dont overtighten the screws as threads might get stripped.
 
     Encoder Pad A           Encoder Pad B
     F5                      F4
-
-# Bill Of Materials
-
-* 16 diodes (tme.eu [link](https://www.tme.eu/ro/en/details/1n4148-dio/tht-universal-diodes/diotec-semiconductor/1n4148/))
-* 16 cherry mx style switches
-* 24 AWG (0.2 mm2) wire
-* Pro Micro
-* EC11 Rotary Encoder (optional / I used a 15mm EC11 clone, mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
-* 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
-* hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
 # QMK Fork
 
