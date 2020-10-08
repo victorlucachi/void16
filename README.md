@@ -18,7 +18,7 @@ Dont overtighten the screws as threads might get stripped.
 * 24 AWG (0.2 mm2) wire
 * Pro Micro (aliexpress [link](https://www.aliexpress.com/item/32902569443.html))
 * EC11 Rotary Encoder (optional/aliexpress [link](https://www.aliexpress.com/item/32872039030.html) mounted to the plate using [this adapter](https://www.thingiverse.com/thing:3770166))
-* 4 M3x10(13mm overall length, 5.5mm diameter head) allen head screws that go through the bottom plate (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/))
+* 4 M3x10 allen head screws (tme.eu [link](https://www.tme.eu/ro/en/details/m3x10_d912-a2/bolts/kraftberg/)/13mm overall length, 5.5mm diameter head)
 * hot glue for securing the pro micro to the bottom case(optional, but recommended)
 
 # Pin assignment
