@@ -36,7 +36,7 @@ Dont overtighten the screws as threads might get stripped.
 
 # QMK Fork
 
-A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/master/keyboards/handwired/void16). Edit them to suit your own needs and build the firmware following the QMK docs.
+A fork containing the QMK config files can be found [here](https://github.com/victorlucachi/qmk_firmware/tree/dev_void/keyboards/handwired/void16). Edit them to suit your own needs and build the firmware following the QMK docs.
 
 If you plan on using the VIA keymap dont forget to download the json definitions file linked in this repository.
 
