@@ -2,7 +2,6 @@
     "name":"VOID16",
     "vendorId":"0xF055",
     "productId":"0x3533",
-    "lighting":"none",
     "matrix":{
       "rows":4,
       "cols":4
